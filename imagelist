@@ -1,0 +1,56 @@
+blacksmith images/blacksmith.bmp 255 255 255 0
+blob images/blob1.bmp 255 255 255 0
+blob images/blob2.bmp 255 255 255 0
+blob images/blob3.bmp 255 255 255 0
+blob images/blob4.bmp 255 255 255 0
+blob images/blob5.bmp 255 255 255 0
+blob images/blob6.bmp 255 255 255 0
+blob images/blob7.bmp 255 255 255 0
+blob images/blob8.bmp 255 255 255 0
+blob images/blob9.bmp 255 255 255 0
+blob images/blob10.bmp 255 255 255 0
+blob images/blob11.bmp 255 255 255 0
+blob images/blob12.bmp 255 255 255 0
+car images/car-0.bmp 255 255 255 0
+car images/car-1.bmp 255 255 255 0
+car images/car-2.bmp 255 255 255 0
+car images/car-3.bmp 255 255 255 0
+engineer images/Engineer-nobackground-0.bmp 0 0 0 0
+engineer images/Engineer-nobackground-1.bmp 0 0 0 0
+engineer images/Engineer-nobackground-2.bmp 0 0 0 0
+engineer images/Engineer-nobackground-3.bmp 0 0 0 0
+engineer images/Engineer-nobackground-4.bmp 0 0 0 0
+engineer images/Engineer-nobackground-5.bmp 0 0 0 0
+engineer images/Engineer-nobackground-6.bmp 0 0 0 0
+engineer images/Engineer-nobackground-7.bmp 0 0 0 0
+engineer images/Engineer-nobackground-8.bmp 0 0 0 0
+engineer images/Engineer-nobackground-9.bmp 0 0 0 0
+miner images/miner1.bmp 252 252 252 0
+miner images/miner2.bmp 252 252 252 0
+miner images/miner3.bmp 252 252 252 0
+miner images/miner4.bmp 252 252 252 0
+miner images/miner5.bmp 252 252 252 0
+office images/office.bmp 255 255 255 0
+pyro images/Pyro-nobackground-0.bmp 0 0 0 0
+pyro images/Pyro-nobackground-1.bmp 0 0 0 0
+pyro images/Pyro-nobackground-2.bmp 0 0 0 0
+pyro images/Pyro-nobackground-3.bmp 0 0 0 0
+pyro images/Pyro-nobackground-4.bmp 0 0 0 0
+pyro images/Pyro-nobackground-5.bmp 0 0 0 0
+pyro images/Pyro-nobackground-6.bmp 0 0 0 0
+pyro images/Pyro-nobackground-7.bmp 0 0 0 0
+quake images/quake1.bmp 255 255 255 0
+quake images/quake2.bmp 255 255 255 0
+quake images/quake3.bmp 255 255 255 0
+quake images/quake4.bmp 255 255 255 0
+quake images/quake5.bmp 255 255 255 0
+quake images/quake6.bmp 255 255 255 0
+ore images/ore.bmp 201 26 26 0
+obstacle images/obstacle.bmp
+asphalt images/cobblestone.bmp
+cobblestone images/cobblestone.bmp
+grass images/sand.bmp
+rocks images/rock.bmp
+dirt images/dirt.bmp
+vein images/vein.bmp
+background_default images/none.bmp
