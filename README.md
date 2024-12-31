@@ -3,6 +3,7 @@
 ### To Run
 Open project in IntelliJ, open file /src/VirtualWorld, and run class VirtualWorld
 
+
 Initial Simulation Rules:
 
 There are 8 entities, which act according to the following rules:
