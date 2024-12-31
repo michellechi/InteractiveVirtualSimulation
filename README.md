@@ -1,5 +1,7 @@
-Virtual World Project
-CSC 203, Fall '21
+# Virtual World Project
+
+### To Run
+Open project in IntelliJ, open file /src/VirtualWorld, and run class VirtualWorld
 
 Initial Simulation Rules:
 
